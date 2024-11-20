@@ -1,4 +1,4 @@
-# Intrinsic-Pigeon-pair-Preferences-Revealed-by-IVF
+# How-Does-IVF-Affect-Pigeon-Pair-Proportions?
 
 We provide program files and data files used in the paper "Intrinsic Pigeon-pair Preferences Revealed by IVF", including
 
@@ -24,6 +24,6 @@ ivf_01.dta corresponds to Part 2, and
 
 ivf_02.dta corresponds to Part 3
 
-■	The Data file for figures and tables include the values of figure 1 to 5, as well as table 1 and 2 (and Supplementary Material). 
+■	The Data file for figures and tables include the values of figure 1 to 4, as well as table 1 (and Supplementary Material). 
 
-If you have any questions, please contact us at (cychu-4@econ.sinica.edu.tw).
+If you have any questions, please contact us at (cychu-3@econ.sinica.edu.tw).
