@@ -1,4 +1,4 @@
-# Intrinsic-Pigeon-pair-Preferences-Revealed-by-IVF
+# How-Does-IVF-Affect-Pigeon-Pair-Proportions?
 
 We provide program files and data files used in the paper "Intrinsic Pigeon-pair Preferences Revealed by IVF", including
 
