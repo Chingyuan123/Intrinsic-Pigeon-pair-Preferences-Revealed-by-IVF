@@ -1,7 +1,7 @@
 **** Codes for "Intrinsic Pigeon-pair Preferences Revealed by IVF" (Part 3)
-*     by C. Y. Cyrus Chu, Chang-Ching Lin, and Shih-Ting Lu (2024)
+*     by C. Y. Cyrus Chu, Chang-Ching Lin, and Ching-Yuan Kao (2024)
 *
-***** If you have any questions, please contact us at (cychu-4@econ.sinica.edu.tw).
+***** If you have any questions, please contact us at (cychu-3@econ.sinica.edu.tw).
 
 ****
 * The program is divided into four parts:
